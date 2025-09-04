@@ -3,8 +3,8 @@
   window.ChatWidgetLoaded = true;
 
   const config = window.ChatWidgetConfig || {
-    webhookUrl: '',
-    companyName: 'AI Assistant',
+    webhookUrl: 'https://pranav-the-emperor.onrender.com/webhook-test/054742ec-bd0e-4cc9-b37a-48cb9837d36f',
+    companyName: 'Pranav',
     companyLogo: 'https://via.placeholder.com/32',
     primaryColor: '#10b981',
   };
